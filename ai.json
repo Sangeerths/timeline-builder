@@ -1,0 +1,296 @@
+{
+	"title": {
+		"media": {
+			"url": "https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--9673a387-6420-4ab2-bd86-15aa735601da/603d0fd3-151f-4256-9dcd-b8ad78899aef.jpg?quality=90&preferwebp=true",
+			"caption": "Machines that replicate human like thinking",
+			"credit": "<a href='https://www.ibm.com/think/topics/artificial-intelligence'>ibm/</a>"
+		},
+		"text": {
+			"headline": "Artifical Intelligence<br/> 1945 - Present",
+			"text": "<p>Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png#/media/File:Dall-e_3_(jan_'24)_artificial_intelligence_icon.png",
+				"caption": "AI is more than lines of code — it’s the evolution of logic into creativity, data into understanding, and computation into intelligence.",
+				"credit": " <a href='https://en.wikipedia.org/wiki/History_of_artificial_intelligence'>Wikipedia/</a>"
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "1940"
+			},
+			"text": {
+				"headline": "Birth of AI",
+				"text": "<p>The origins of AI trace back to the 1930s–50s, when discoveries in computation, cybernetics, and neurology inspired scientists like Alan Turing to explore the idea of creating an electronic brain. </p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Turing_test_diagram.png#/media/File:Turing_test_diagram.png",
+				"caption": "The Turing test, originally called the imitation game designed by Alan Turing",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Turing_test'>Wikipedia/</a>"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "Turing test",
+				"text": "Proposed by Alan Turing in 1950, the Turing Test evaluates a machine’s ability to exhibit human-like intelligence through conversation, remaining a key concept in AI philosophy and research."
+			}
+		},
+
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Artificial_neuron_structure.svg#/media/File:Artificial_neuron_structure.svg",
+				"credit": "<a href='https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Birth_of_artificial_intelligence_(1941%E2%80%931956)'>Wikipedia/</a>"
+			},
+			"start_date": {
+				"year": "1943"
+			},
+			"text": {
+				"headline": "Artifical Neural Network",
+				"text": "In 1943, Walter Pitts and Warren McCulloch introduced the first model of artificial neural networks, inspiring Marvin Minsky, who later built the first neural net machine, SNARC, in 1951."
+			}
+		},
+
+
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Turtle_draw.jpg#/media/File:Turtle_draw.jpg",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Turtle_(robot)'>Wikipedia/</a>"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "Cybernetics Robots",
+				"text": "In the 1950s, experimental robots such as W. Grey Walter’s turtles and the Johns Hopkins Beast demonstrated early autonomous behavior, using analog circuits rather than computers or digital logic to navigate and respond to their environment."
+			}
+		},
+
+
+			{
+			"media": {
+				"url": "https://youtu.be/WoKkrHbNEZQ?si=oiTZo6qbT7bArYfM",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Ferranti_Mark_1'>Wikipedia/</a>"
+			},
+			"start_date": {
+				"year": "1951"
+			},
+			"text": {
+				"headline": "Game ai",
+				"text": "In the 1950s, early AI programs like Christopher Strachey’s checkers, Dietrich Prinz’s chess, and Arthur Samuel’s self-learning checkers marked the beginnings of machine learning and set games as key benchmarks for AI progress."
+			}
+		},
+
+		{
+			"media": {
+				"url": "https://youtu.be/5Ur-Nf85ARw?si=FUHXEe7ZMW6WtB7e",
+		
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Dartmouth_workshop'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Dartmouth Workshop",
+				"text": "The 1956 Dartmouth Workshop, organized by John McCarthy and Marvin Minsky, marked the official birth of artificial intelligence as a field, introducing the term “AI” and bringing together pioneers who developed early landmark programs like the Logic Theorist."
+			}
+		},
+		{
+			"media": {
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrmIqL4MrAssl-PfVuI9d-v5Y-7aCha3YvUA&s",
+				"credit": "<a href = 'https://greymatter.blog/the-cognitive-revolution/'> greymatter/</a>"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Cognitive revolution",
+				"text": "In 1956, Newell and Simon presented the Logic Theorist at MIT alongside groundbreaking work by Noam Chomsky and George Miller, sparking the “cognitive revolution” that united psychology, linguistics, and computer science, and established symbolic reasoning as the foundation of AI research."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Mark_I_Perceptron,_Figure_2_of_operator%27s_manual.png#/media/File:Mark_I_Perceptron,_Figure_2_of_operator's_manual.png",
+				"caption": "The Mark I Perceptron was a pioneering supervised image classification learning system developed by Frank Rosenblatt in 1958.",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Mark_I_Perceptron'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1958"
+			},
+			"text": {
+				"headline": "Perceptrons and early neural networks",
+				"text": "In 1958, Frank Rosenblatt introduced the perceptron, an early neural network model that inspired optimism about machine learning. Despite advancements like ADALINE, MADALINE, and MINOS, neural network research declined after Minsky and Papert’s 1969 book Perceptrons highlighted its limitations, leading to a decade-long pause until the rediscovery of backpropagation revived the field in the 1980s."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/w_v5lumtoPk?si=KAP9quplDZFMrYaQ",
+				"caption": "In the 1970s, AI was subject to critiques and financial setbacks. AI researchers had failed to appreciate the difficulty of the problems they faced.",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Birth_of_artificial_intelligence_(1941%E2%80%931956)'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1970"
+			},
+			"text": {
+				"headline": "AI Winter",
+				"text": "In the 1970s, AI faced major criticism and funding cuts after early optimism failed to deliver practical results. Limited computing power, intractable problems, and challenges in commonsense reasoning exposed the limits of symbolic AI, leading to the first “AI winter.” Despite this, progress continued in areas like logic programming—most notably with Prolog—and the exploration of new paradigms such as frames, scripts, and default reasoning. These developments bridged logic-based and human-like approaches, shaping modern AI foundations in knowledge representation and reasoning."
+			}
+		},
+		{
+			"media": {
+				"url": "https://brewminate.com/wp-content/uploads/2024/04/041924-06-History-Technology.jpg",
+				"credit": "<a href='https://en.wikipedia.org/wiki/History_of_artificial_intelligence#Birth_of_artificial_intelligence_(1941%E2%80%931956)'>Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1980"
+			},
+			"text": {
+				"headline": "Boom",
+				"text": "During the 1980s, AI experienced its first true industrial boom driven by expert systems, corporate adoption, and massive government funding. Expert systems like R1 demonstrated tangible business value, saving millions for companies and sparking billion-dollar investments worldwide. Japan’s Fifth Generation Computer Project, the U.S. Strategic Computing Initiative, and similar efforts in Europe fueled rapid growth, leading to what became known as the knowledge revolution—a shift toward encoding human expertise and commonsense knowledge into intelligent systems."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Hopfield-net-vector.svg#/media/File:Hopfield-net-vector.svg",
+				"caption": "A Hopfield net with four nodes",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/John_Hopfield'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1987"
+			},
+			"text": {
+				"headline": "Revival of neural networks",
+				"text": "The revival of neural networks through the work of John Hopfield, Geoffrey Hinton, and David Rumelhart, culminating in the rediscovery of backpropagation and the rise of connectionism. Parallel advances in robotics (through Rodney Brooks’ “embodied intelligence”), probabilistic reasoning (Judea Pearl’s Bayesian networks), and soft computing (fuzzy logic, evolutionary algorithms) diversified the field beyond symbolic logic."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Reinforcement_learning_diagram.svg#/media/File:Reinforcement_learning_diagram.svg",
+				"caption": "The typical framing of a reinforcement learning (RL) scenario: an agent takes actions in an environment, which is interpreted into a reward and a state representation, which are fed back to the agent.",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Reinforcement_learning'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1988"
+			},
+			"text": {
+				"headline": "Reinforcement Learning",
+				"text": "Reinforcement learning (RL) is a method where an agent learns through rewards and punishments—receiving positive feedback for desirable actions and negative feedback for poor ones. Its foundations trace back to early behavioral psychology experiments by Thorndike, Pavlov, and Skinner, and later foresight from Alan Turing and Arthur Samuel on its potential for machine intelligence."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.tandfonline.com/cms/asset/a08a9879-7fdf-49b7-aef1-cc1bb4a101c7/tpai_a_2491445_f0001_b.gif",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/AI_winter'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1990"
+			},
+			"text": {
+				"headline": "Second AI winter",
+				"text": "In the 1980s, AI’s hype led to an “AI winter” as funding collapsed and expert systems failed. In the 1990s, AI quietly advanced through data mining, speech recognition, and robotics, fueled by stronger math, collaboration, and computing power. The rise of “intelligent agents” and milestones like Deep Blue’s 1997 chess victory marked AI’s return as a practical, science-driven field."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:IntelligentAgent-SimpleReflex.png#/media/File:IntelligentAgent-SimpleReflex.png",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Intelligent_agent'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "1990"
+			},
+			"text": {
+				"headline": "Intelligent agents",
+				"text": "In the 1990s, AI research adopted the “intelligent agent” paradigm, defining an agent as a system that perceives its environment and acts to maximize success. This approach, influenced by decision theory and economics, unified various AI methods under the study of all forms of intelligence—not just human. It allowed researchers to focus on specialized problems while contributing to the broader goal of general intelligence."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Revised_NIST_Big_Data_Taxonomy.jpg#/media/File:Revised_NIST_Big_Data_Taxonomy.jpg",
+				
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Big_data'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2005"
+			},
+			"text": {
+				"headline": "Big data, deep learning, AGI",
+				"text": "In the early 21st century, rapid advances in computing power, big data, and machine learning—especially deep learning after 2012—transformed AI’s capabilities in vision, speech, and text processing. By 2016, AI investment surged to over $8 billion, marking a period of widespread adoption. At the same time, researchers like Ben Goertzel urged a return to the pursuit of artificial general intelligence (AGI), leading to the rise of labs such as OpenAI and DeepMind. Growing AI power also sparked global concern over its potential risks and long-term impact on humanity."
+			}
+		},
+		{
+			"media": {
+				"url": "https://commons.wikimedia.org/wiki/File:Deep_Learning.jpg#/media/File:Deep_Learning.jpg",
+				"caption": "Representing images on multiple layers of abstraction in deep learning[1]",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Deep_learning'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2012"
+			},
+			"text": {
+				"headline": "Deep learning",
+				"text": "In 2012, AlexNet, a deep learning model created by Alex Krizhevsky and Geoffrey Hinton, won the ImageNet Visual Recognition Challenge, outperforming all competitors by a large margin. This victory marked a major breakthrough for deep learning, which uses multi-layer neural networks to automatically learn features from data—unlike earlier systems that relied on manual feature design. With advances in computing power and access to massive datasets, deep learning rapidly became the dominant approach in AI, driving major improvements in areas like speech recognition, translation, healthcare, and gaming, and sparking a global surge in AI investment and research."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.rootsanalysis.com/img003/artificial-general-intelligence-market-by-type-of-offering-I.webp",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Artificial_general_intelligence'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Artificial general intelligence research",
+				"text": "In the early 2000s, researchers such as Nils Nilsson, John McCarthy, and Marvin Minsky warned that AI had become too focused on narrow, task-specific goals, drifting away from the pursuit of artificial general intelligence (AGI)—machines capable of human-like versatility. This concern led Ben Goertzel to formally establish AGI as a research field in 2008."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/5sLYAQS9sWQ?si=6V7uECTncLS2_0R5",
+				"caption": "arge language models-- or LLMs --are a type of generative pretrained transformer (GPT) that can create human-like text and code. ",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/Large_language_model'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2017"
+			},
+			"text": {
+				"headline": "Large language models",
+				"text": "A large language model (LLM) is an advanced AI system trained on massive text datasets using self-supervised learning to perform natural language processing tasks like understanding and generating text. The most powerful LLMs, such as GPT, Gemini, and Claude, use the transformer architecture and serve as the foundation for modern chatbots. They can be fine-tuned for specialized applications or directed through prompt engineering. While LLMs learn grammar, meaning, and real-world knowledge, they also reflect the biases and inaccuracies present in their training data."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/ixgunKpy61s?si=0_w73FKrhTAa0qit",
+				"caption": "",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/AI_boom'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2010"
+			},
+			"text": {
+				"headline": "AI boom",
+				"text": "An AI boom is a period of rapid growth and innovation in artificial intelligence. The current boom began around 2010–2016 and accelerated sharply in the 2020s, driven by breakthroughs in generative AI—notably large language models and AI image generators developed by companies like OpenAI and Google DeepMind. This era, sometimes called an AI spring, contrasts with earlier AI winters of stagnation. By 2025, ChatGPT has become the fifth most visited website in the world, following Google, YouTube, Facebook, and Instagram."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/97XeRZ9vG24?si=x-XwyyxBHiCbgyxp",
+				"caption": "Artificial Intelligence Major: Your Path to a Future in AI",
+				"credit": "<a href = 'https://en.wikipedia.org/wiki/History_of_artificial_intelligence'> Wikipedia</a>"
+			},
+			"start_date": {
+				"year": "2025"
+			},
+			"text": {
+				"headline": "Further study and development of AI",
+				"text": "In January 2025, OpenAI launched ChatGPT-Gov, a secure AI platform for U.S. government agencies hosted on Microsoft Azure, meeting strict security standards. China invested US$100 billion in AI and robotics for manufacturing and healthcare, mandating AI content labeling from September 2025. The U.S. formed Stargate LLC (OpenAI, SoftBank, Oracle, MGX) to invest US$500 billion in AI infrastructure by 2029, alongside national initiatives to boost AI use in manufacturing, logistics, and defense."
+			}
+		}
+		
+	]
+}
